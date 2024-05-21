@@ -10,11 +10,6 @@ This project aims to analyze a dataset of student performance and demographics t
 2. [Business Questions](#business-questions)
 3. [Data Description](#data-description)
 4. [Installation](#installation)
-5. [Usage](#usage)
-6. [Exploratory Data Analysis (EDA)](#exploratory-data-analysis-eda)
-7. [Conclusion](#conclusion)
-8. [Contributing](#contributing)
-9. [License](#license)
 
 ## Introduction
 
@@ -48,4 +43,5 @@ To run this project, you need to have Python installed along with the required l
 ```bash
 pip install pandas numpy faker matplotlib seaborn
 '''
+
 
